@@ -34,13 +34,13 @@ const features = [
   {
     icon: Award,
     title: 'Transparent Pricing',
-    description: 'No hidden charges, no processing fee surprises. Every cost is communicated upfront with complete clarity and transparency.',
+    description: 'No hidden charges. Every cost is communicated upfront with complete clarity and transparency.',
     color: 'teal'
   },
   {
     icon: Lock,
     title: 'Zero Collateral Required',
-    description: 'Most of our loan products are unsecured, meaning you don\'t need to pledge assets to access funds for your needs.',
+    description: 'Most of our loan products are unsecured, meaning you don't need to pledge assets to access funds for your needs.',
     color: 'red'
   },
   {

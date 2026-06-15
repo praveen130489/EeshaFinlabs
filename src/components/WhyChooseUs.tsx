@@ -34,7 +34,7 @@ const features = [
   {
     icon: Award,
     title: 'Transparent Pricing',
-    description: 'No hidden charges, no processing fee surprises. Every cost is communicated upfront with complete clarity and transparency.',
+    description: 'No hidden charges. Every cost is communicated upfront with complete clarity and transparency.',
     color: 'teal'
   },
   {
